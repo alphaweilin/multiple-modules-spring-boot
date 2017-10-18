@@ -12,7 +12,7 @@ import com.rdc.app.crm.service.course.service.StudentService;
 
 
 @RestController
-public class StudentController {
+public class StudentRestController {
 
 	@Autowired
 	private StudentService studentService;
